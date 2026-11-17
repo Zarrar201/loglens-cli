@@ -1,0 +1,200 @@
+2026-11-17 10:00:00 INFO api-gateway GET /orders/3887 200 97ms
+2026-11-17 10:00:01 INFO auth-service User 751 logged in from 86.23.206.243
+2026-11-17 10:00:02 INFO api-gateway GET /orders/3361 200 72ms
+2026-11-17 10:00:03 INFO api-gateway GET /orders/8359 200 225ms
+2026-11-17 10:00:04 INFO api-gateway GET /orders/2533 200 158ms
+2026-11-17 10:00:05 INFO api-gateway GET /orders/6146 200 258ms
+2026-11-17 10:00:06 INFO api-gateway GET /orders/4407 200 334ms
+2026-11-17 10:00:07 INFO api-gateway GET /orders/9899 200 33ms
+2026-11-17 10:00:08 INFO auth-service User 205 logged in from 135.192.240.36
+2026-11-17 10:00:09 INFO api-gateway GET /orders/5132 200 197ms
+2026-11-17 10:00:10 INFO api-gateway GET /orders/4122 200 54ms
+2026-11-17 10:00:11 INFO auth-service User 128 logged in from 39.152.232.120
+2026-11-17 10:00:12 INFO auth-service User 739 logged in from 231.157.216.1
+2026-11-17 10:00:13 INFO api-gateway GET /orders/9758 200 209ms
+2026-11-17 10:00:14 INFO api-gateway GET /orders/5619 200 22ms
+2026-11-17 10:00:15 WARN api-gateway Slow response 891ms for /orders
+2026-11-17 10:00:16 INFO api-gateway GET /orders/7008 200 105ms
+2026-11-17 10:00:17 INFO api-gateway GET /orders/7428 200 223ms
+2026-11-17 10:00:18 INFO auth-service User 558 logged in from 36.107.32.101
+2026-11-17 10:00:19 INFO api-gateway GET /orders/2028 200 308ms
+2026-11-17 10:00:20 INFO api-gateway GET /orders/1378 200 125ms
+2026-11-17 10:00:21 INFO auth-service User 897 logged in from 47.70.194.34
+2026-11-17 10:00:22 INFO api-gateway GET /orders/5278 200 285ms
+2026-11-17 10:00:23 INFO auth-service User 553 logged in from 84.157.250.130
+2026-11-17 10:00:24 ERROR notification-service Failed to send email to user 920
+2026-11-17 10:00:25 INFO api-gateway GET /orders/1417 200 56ms
+2026-11-17 10:00:26 INFO api-gateway GET /orders/6571 200 327ms
+2026-11-17 10:00:27 ERROR notification-service Failed to send email to user 190
+2026-11-17 10:00:28 INFO auth-service User 629 logged in from 108.212.235.225
+2026-11-17 10:00:29 INFO api-gateway GET /orders/1474 200 34ms
+2026-11-17 10:00:30 INFO api-gateway GET /orders/2408 200 242ms
+2026-11-17 10:00:31 INFO auth-service User 324 logged in from 192.244.25.102
+2026-11-17 10:00:32 INFO auth-service User 447 logged in from 108.51.92.82
+2026-11-17 10:00:33 ERROR payment-service Timeout calling gateway after 3000 ms for order 2186
+2026-11-17 10:00:34 INFO api-gateway GET /orders/4999 200 61ms
+2026-11-17 10:00:35 INFO api-gateway GET /orders/3401 200 373ms
+2026-11-17 10:00:36 INFO api-gateway GET /orders/6966 200 262ms
+2026-11-17 10:00:37 INFO auth-service User 758 logged in from 22.214.170.31
+2026-11-17 10:00:38 INFO api-gateway GET /orders/6072 200 351ms
+2026-11-17 10:00:39 INFO api-gateway GET /orders/9111 200 195ms
+2026-11-17 10:00:40 INFO api-gateway GET /orders/9725 200 297ms
+2026-11-17 10:00:41 INFO api-gateway GET /orders/6613 200 399ms
+2026-11-17 10:00:42 INFO api-gateway GET /orders/8996 200 258ms
+2026-11-17 10:00:43 INFO api-gateway GET /orders/7867 200 93ms
+2026-11-17 10:00:44 INFO auth-service User 622 logged in from 5.224.113.199
+2026-11-17 10:00:45 INFO api-gateway GET /orders/3181 200 168ms
+2026-11-17 10:00:46 INFO api-gateway GET /orders/8474 200 55ms
+2026-11-17 10:00:47 INFO auth-service User 909 logged in from 72.121.67.50
+2026-11-17 10:00:48 INFO auth-service User 162 logged in from 233.190.91.230
+2026-11-17 10:00:49 WARN api-gateway Slow response 952ms for /orders
+2026-11-17 10:00:50 INFO auth-service User 473 logged in from 21.57.27.59
+2026-11-17 10:00:51 INFO auth-service User 259 logged in from 141.141.34.6
+2026-11-17 10:00:52 INFO api-gateway GET /orders/3645 200 284ms
+2026-11-17 10:00:53 WARN api-gateway Slow response 1349ms for /orders
+2026-11-17 10:00:54 INFO api-gateway GET /orders/2918 200 272ms
+2026-11-17 10:00:55 INFO api-gateway GET /orders/4374 200 274ms
+2026-11-17 10:00:56 INFO api-gateway GET /orders/4517 200 39ms
+2026-11-17 10:00:57 INFO api-gateway GET /orders/2491 200 376ms
+2026-11-17 10:00:58 INFO api-gateway GET /orders/6140 200 194ms
+2026-11-17 10:00:59 INFO api-gateway GET /orders/7851 200 55ms
+2026-11-17 10:01:00 INFO auth-service User 833 logged in from 165.170.94.37
+2026-11-17 10:01:01 INFO api-gateway GET /orders/7468 200 353ms
+2026-11-17 10:01:02 INFO auth-service User 158 logged in from 64.49.71.11
+2026-11-17 10:01:03 INFO api-gateway GET /orders/4420 200 245ms
+2026-11-17 10:01:04 ERROR payment-service Timeout calling gateway after 3000 ms for order 4003
+2026-11-17 10:01:05 INFO auth-service User 624 logged in from 246.17.29.236
+2026-11-17 10:01:06 ERROR notification-service Failed to send email to user 749
+2026-11-17 10:01:07 INFO api-gateway GET /orders/8870 200 267ms
+2026-11-17 10:01:08 INFO api-gateway GET /orders/1965 200 131ms
+2026-11-17 10:01:09 WARN api-gateway Slow response 1327ms for /orders
+2026-11-17 10:01:10 INFO auth-service User 842 logged in from 31.143.16.84
+2026-11-17 10:01:11 INFO api-gateway GET /orders/7164 200 96ms
+2026-11-17 10:01:12 INFO api-gateway GET /orders/3702 200 195ms
+2026-11-17 10:01:13 INFO auth-service User 613 logged in from 34.137.39.135
+2026-11-17 10:01:14 INFO api-gateway GET /orders/7804 200 203ms
+2026-11-17 10:01:15 INFO api-gateway GET /orders/4654 200 333ms
+2026-11-17 10:01:16 INFO api-gateway GET /orders/7320 200 362ms
+2026-11-17 10:01:17 INFO api-gateway GET /orders/1884 200 253ms
+2026-11-17 10:01:18 INFO api-gateway GET /orders/3961 200 72ms
+2026-11-17 10:01:19 INFO auth-service User 939 logged in from 109.218.234.174
+2026-11-17 10:01:20 INFO auth-service User 265 logged in from 181.111.132.104
+2026-11-17 10:01:21 INFO auth-service User 316 logged in from 8.65.55.75
+2026-11-17 10:01:22 INFO api-gateway GET /orders/3945 200 377ms
+2026-11-17 10:01:23 INFO api-gateway GET /orders/7560 200 51ms
+2026-11-17 10:01:24 INFO api-gateway GET /orders/1861 200 72ms
+2026-11-17 10:01:25 INFO api-gateway GET /orders/7909 200 40ms
+2026-11-17 10:01:26 ERROR payment-service Timeout calling gateway after 3000 ms for order 7968
+2026-11-17 10:01:27 INFO auth-service User 365 logged in from 140.108.214.34
+2026-11-17 10:01:28 INFO auth-service User 581 logged in from 51.87.53.124
+2026-11-17 10:01:29 INFO api-gateway GET /orders/9445 200 336ms
+2026-11-17 10:01:30 INFO auth-service User 907 logged in from 59.249.225.27
+2026-11-17 10:01:31 INFO auth-service User 194 logged in from 185.94.5.87
+2026-11-17 10:01:32 INFO api-gateway GET /orders/3012 200 79ms
+2026-11-17 10:01:33 INFO api-gateway GET /orders/9480 200 272ms
+2026-11-17 10:01:34 WARN api-gateway Slow response 1384ms for /orders
+2026-11-17 10:01:35 WARN api-gateway Slow response 1085ms for /orders
+2026-11-17 10:01:36 INFO auth-service User 287 logged in from 156.2.199.205
+2026-11-17 10:01:37 INFO api-gateway GET /orders/9236 200 188ms
+2026-11-17 10:01:38 INFO api-gateway GET /orders/9711 200 238ms
+2026-11-17 10:01:39 INFO api-gateway GET /orders/3659 200 76ms
+2026-11-17 10:01:40 INFO auth-service User 552 logged in from 81.19.172.62
+2026-11-17 10:01:41 INFO auth-service User 563 logged in from 131.137.207.123
+2026-11-17 10:01:42 INFO api-gateway GET /orders/5552 200 90ms
+2026-11-17 10:01:43 INFO api-gateway GET /orders/7955 200 50ms
+2026-11-17 10:01:44 INFO auth-service User 720 logged in from 132.52.178.71
+2026-11-17 10:01:45 INFO api-gateway GET /orders/7564 200 398ms
+2026-11-17 10:01:46 INFO api-gateway GET /orders/6825 200 394ms
+2026-11-17 10:01:47 INFO auth-service User 927 logged in from 240.186.90.245
+2026-11-17 10:01:48 INFO auth-service User 359 logged in from 227.36.248.120
+2026-11-17 10:01:49 INFO auth-service User 903 logged in from 199.28.227.144
+2026-11-17 10:01:50 INFO api-gateway GET /orders/2271 200 305ms
+2026-11-17 10:01:51 INFO auth-service User 493 logged in from 85.133.160.76
+2026-11-17 10:01:52 ERROR payment-service Timeout calling gateway after 3000 ms for order 5406
+2026-11-17 10:01:53 INFO auth-service User 186 logged in from 186.41.44.33
+2026-11-17 10:01:54 INFO api-gateway GET /orders/3987 200 154ms
+2026-11-17 10:01:55 INFO api-gateway GET /orders/9137 200 316ms
+2026-11-17 10:01:56 INFO auth-service User 186 logged in from 68.70.11.232
+2026-11-17 10:01:57 INFO auth-service User 114 logged in from 205.249.186.167
+2026-11-17 10:01:58 INFO api-gateway GET /orders/6305 200 97ms
+2026-11-17 10:01:59 INFO api-gateway GET /orders/7405 200 274ms
+2026-11-17 10:02:00 INFO api-gateway GET /orders/2199 200 80ms
+2026-11-17 10:02:01 INFO api-gateway GET /orders/4078 200 210ms
+2026-11-17 10:02:02 INFO api-gateway GET /orders/1976 200 336ms
+2026-11-17 10:02:03 INFO auth-service User 569 logged in from 170.150.209.232
+2026-11-17 10:02:04 INFO api-gateway GET /orders/1950 200 279ms
+2026-11-17 10:02:05 INFO api-gateway GET /orders/3490 200 270ms
+2026-11-17 10:02:06 INFO auth-service User 253 logged in from 45.37.122.159
+2026-11-17 10:02:07 INFO auth-service User 890 logged in from 26.130.116.144
+2026-11-17 10:02:08 INFO api-gateway GET /orders/3386 200 234ms
+2026-11-17 10:02:09 INFO api-gateway GET /orders/6109 200 63ms
+2026-11-17 10:02:10 ERROR notification-service Failed to send email to user 366
+2026-11-17 10:02:11 INFO api-gateway GET /orders/4622 200 43ms
+2026-11-17 10:02:12 WARN api-gateway Slow response 1064ms for /orders
+2026-11-17 10:02:13 INFO auth-service User 798 logged in from 133.136.143.124
+2026-11-17 10:02:14 INFO api-gateway GET /orders/3472 200 62ms
+2026-11-17 10:02:15 INFO api-gateway GET /orders/6054 200 306ms
+2026-11-17 10:02:16 INFO auth-service User 672 logged in from 229.242.52.216
+2026-11-17 10:02:17 WARN api-gateway Slow response 1306ms for /orders
+2026-11-17 10:02:18 INFO api-gateway GET /orders/7499 200 45ms
+2026-11-17 10:02:19 INFO auth-service User 902 logged in from 32.230.199.40
+2026-11-17 10:02:20 INFO api-gateway GET /orders/9654 200 205ms
+2026-11-17 10:02:21 INFO api-gateway GET /orders/9387 200 234ms
+2026-11-17 10:02:22 INFO api-gateway GET /orders/6685 200 31ms
+2026-11-17 10:02:23 INFO api-gateway GET /orders/3478 200 294ms
+2026-11-17 10:02:24 INFO api-gateway GET /orders/2320 200 105ms
+2026-11-17 10:02:25 INFO api-gateway GET /orders/5709 200 86ms
+2026-11-17 10:02:26 INFO auth-service User 667 logged in from 118.113.181.5
+2026-11-17 10:02:27 WARN api-gateway Slow response 1134ms for /orders
+2026-11-17 10:02:28 INFO api-gateway GET /orders/5337 200 265ms
+2026-11-17 10:02:29 INFO auth-service User 544 logged in from 224.50.212.224
+2026-11-17 10:02:30 INFO auth-service User 590 logged in from 233.168.89.205
+2026-11-17 10:02:31 INFO api-gateway GET /orders/6827 200 134ms
+2026-11-17 10:02:32 INFO api-gateway GET /orders/8424 200 205ms
+2026-11-17 10:02:33 INFO auth-service User 598 logged in from 42.171.214.58
+2026-11-17 10:02:34 INFO api-gateway GET /orders/5561 200 381ms
+2026-11-17 10:02:35 INFO auth-service User 809 logged in from 155.245.89.115
+2026-11-17 10:02:36 INFO auth-service User 839 logged in from 102.119.103.191
+2026-11-17 10:02:37 INFO api-gateway GET /orders/8301 200 165ms
+2026-11-17 10:02:38 ERROR payment-service Timeout calling gateway after 3000 ms for order 1942
+2026-11-17 10:02:39 INFO auth-service User 589 logged in from 228.46.112.203
+2026-11-17 10:02:40 INFO auth-service User 538 logged in from 19.55.172.78
+2026-11-17 10:02:41 INFO api-gateway GET /orders/9779 200 68ms
+2026-11-17 10:02:42 INFO api-gateway GET /orders/4943 200 66ms
+2026-11-17 10:02:43 INFO api-gateway GET /orders/7233 200 138ms
+2026-11-17 10:02:44 INFO api-gateway GET /orders/6991 200 318ms
+2026-11-17 10:02:45 INFO api-gateway GET /orders/2662 200 206ms
+2026-11-17 10:02:46 INFO api-gateway GET /orders/8945 200 321ms
+2026-11-17 10:02:47 INFO api-gateway GET /orders/8767 200 376ms
+2026-11-17 10:02:48 INFO auth-service User 497 logged in from 201.183.193.52
+2026-11-17 10:02:49 INFO api-gateway GET /orders/4197 200 142ms
+2026-11-17 10:02:50 INFO api-gateway GET /orders/6220 200 84ms
+2026-11-17 10:02:51 INFO api-gateway GET /orders/3753 200 332ms
+2026-11-17 10:02:52 INFO auth-service User 710 logged in from 122.169.240.90
+2026-11-17 10:02:53 INFO api-gateway GET /orders/7536 200 221ms
+2026-11-17 10:02:54 INFO auth-service User 997 logged in from 225.242.238.67
+2026-11-17 10:02:55 INFO api-gateway GET /orders/2696 200 266ms
+2026-11-17 10:02:56 INFO api-gateway GET /orders/8564 200 201ms
+2026-11-17 10:02:57 INFO api-gateway GET /orders/2064 200 51ms
+2026-11-17 10:02:58 INFO api-gateway GET /orders/2013 200 315ms
+2026-11-17 10:02:59 ERROR payment-service Timeout calling gateway after 3000 ms for order 1275
+2026-11-17 10:03:00 INFO api-gateway GET /orders/6737 200 324ms
+2026-11-17 10:03:01 INFO api-gateway GET /orders/5911 200 147ms
+2026-11-17 10:03:02 INFO api-gateway GET /orders/8053 200 301ms
+2026-11-17 10:03:03 WARN api-gateway Slow response 1215ms for /orders
+2026-11-17 10:03:04 INFO auth-service User 925 logged in from 168.38.157.212
+2026-11-17 10:03:05 INFO api-gateway GET /orders/3028 200 134ms
+2026-11-17 10:03:06 INFO api-gateway GET /orders/8353 200 167ms
+2026-11-17 10:03:07 INFO auth-service User 619 logged in from 242.64.179.134
+2026-11-17 10:03:08 INFO api-gateway GET /orders/4822 200 26ms
+2026-11-17 10:03:09 INFO api-gateway GET /orders/9652 200 172ms
+2026-11-17 10:03:10 INFO auth-service User 613 logged in from 62.196.151.84
+2026-11-17 10:03:11 INFO api-gateway GET /orders/1003 200 310ms
+2026-11-17 10:03:12 INFO api-gateway GET /orders/1791 200 57ms
+2026-11-17 10:03:13 INFO api-gateway GET /orders/4714 200 122ms
+2026-11-17 10:03:14 INFO api-gateway GET /orders/5919 200 288ms
+2026-11-17 10:03:15 INFO api-gateway GET /orders/4800 200 357ms
+2026-11-17 10:03:16 INFO api-gateway GET /orders/9858 200 80ms
+2026-11-17 10:03:17 INFO api-gateway GET /orders/5056 200 223ms
+2026-11-17 10:03:18 INFO auth-service User 128 logged in from 195.229.234.17
+2026-11-17 10:03:19 INFO api-gateway GET /orders/2596 200 300ms

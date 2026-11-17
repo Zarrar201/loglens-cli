@@ -1,0 +1,232 @@
+2026-11-17 10:00:00 INFO api-gateway GET /orders/4452 200 58ms
+2026-11-17 10:00:01 INFO api-gateway GET /orders/5262 200 227ms
+2026-11-17 10:00:02 WARN api-gateway Slow response 1036ms for /orders
+2026-11-17 10:00:03 INFO auth-service User 305 logged in from 80.197.210.50
+2026-11-17 10:00:04 INFO auth-service User 530 logged in from 93.175.102.51
+2026-11-17 10:00:05 INFO api-gateway GET /orders/6890 200 87ms
+2026-11-17 10:00:06 INFO auth-service User 287 logged in from 3.206.239.190
+2026-11-17 10:00:07 ERROR payment-service Timeout calling gateway after 3000 ms for order 8358
+2026-11-17 10:00:08 ERROR payment-service Timeout calling gateway after 3000 ms for order 6729
+2026-11-17 10:00:09 WARN api-gateway Slow response 1259ms for /orders
+2026-11-17 10:00:10 ERROR payment-service Timeout calling gateway after 3000 ms for order 9399
+2026-11-17 10:00:11 ERROR payment-service Timeout calling gateway after 3000 ms for order 7040
+2026-11-17 10:00:12 INFO api-gateway GET /orders/6453 200 250ms
+2026-11-17 10:00:13 ERROR order-service NullPointerException in calculateTotal for cart b2061ecc-65d4-64fd-29e7-8b06a72ed508
+2026-11-17 10:00:14 ERROR payment-service Timeout calling gateway after 3000 ms for order 1723
+2026-11-17 10:00:15 INFO api-gateway GET /orders/4999 200 66ms
+2026-11-17 10:00:16 INFO auth-service User 421 logged in from 188.29.21.239
+2026-11-17 10:00:17 ERROR cache-service Cache miss for key 201
+2026-11-17 10:00:18 INFO api-gateway GET /orders/7781 200 288ms
+2026-11-17 10:00:19 WARN api-gateway Slow response 837ms for /orders
+2026-11-17 10:00:20 INFO api-gateway GET /orders/7300 200 224ms
+2026-11-17 10:00:21 ERROR payment-service Timeout calling gateway after 3000 ms for order 5258
+2026-11-17 10:00:22 WARN api-gateway Slow response 1038ms for /orders
+2026-11-17 10:00:23 ERROR order-service NullPointerException in calculateTotal for cart 6a9c2a33-6a01-260f-5b70-42dfe239d3d7
+2026-11-17 10:00:24 INFO api-gateway GET /orders/7763 200 216ms
+2026-11-17 10:00:25 INFO api-gateway GET /orders/9157 200 268ms
+2026-11-17 10:00:26 ERROR order-service NullPointerException in calculateTotal for cart 1755c6de-88b4-09c8-a3a1-6d922790bb01
+2026-11-17 10:00:27 INFO auth-service User 822 logged in from 122.51.96.139
+2026-11-17 10:00:28 INFO api-gateway GET /orders/2786 200 134ms
+2026-11-17 10:00:29 INFO api-gateway GET /orders/9462 200 166ms
+2026-11-17 10:00:30 INFO auth-service User 163 logged in from 66.50.192.17
+2026-11-17 10:00:31 INFO auth-service User 226 logged in from 144.247.195.54
+2026-11-17 10:00:32 INFO api-gateway GET /orders/2666 200 46ms
+2026-11-17 10:00:33 INFO auth-service User 103 logged in from 185.194.153.235
+2026-11-17 10:00:34 INFO api-gateway GET /orders/5353 200 243ms
+2026-11-17 10:00:35 INFO auth-service User 525 logged in from 14.182.16.48
+2026-11-17 10:00:36 INFO api-gateway GET /orders/8002 200 91ms
+2026-11-17 10:00:37 INFO auth-service User 783 logged in from 109.237.95.59
+2026-11-17 10:00:38 INFO api-gateway GET /orders/2837 200 70ms
+2026-11-17 10:00:39 INFO api-gateway GET /orders/7098 200 53ms
+2026-11-17 10:00:40 ERROR order-service NullPointerException in calculateTotal for cart ff2282e6-c444-0054-dd3f-400604a99e63
+2026-11-17 10:00:41 INFO api-gateway GET /orders/5125 200 290ms
+2026-11-17 10:00:42 ERROR payment-service Timeout calling gateway after 3000 ms for order 1103
+2026-11-17 10:00:43 INFO api-gateway GET /orders/3085 200 107ms
+2026-11-17 10:00:44 INFO api-gateway GET /orders/2016 200 275ms
+2026-11-17 10:00:45 INFO api-gateway GET /orders/8304 200 241ms
+2026-11-17 10:00:46 INFO api-gateway GET /orders/3862 200 195ms
+2026-11-17 10:00:47 INFO api-gateway GET /orders/5232 200 311ms
+2026-11-17 10:00:48 WARN api-gateway Slow response 804ms for /orders
+2026-11-17 10:00:49 INFO api-gateway GET /orders/2492 200 183ms
+2026-11-17 10:00:50 INFO auth-service User 651 logged in from 217.199.171.195
+2026-11-17 10:00:51 INFO api-gateway GET /orders/8748 200 28ms
+2026-11-17 10:00:52 INFO auth-service User 410 logged in from 211.178.198.39
+2026-11-17 10:00:53 INFO api-gateway GET /orders/8736 200 232ms
+2026-11-17 10:00:54 INFO auth-service User 735 logged in from 229.173.61.192
+2026-11-17 10:00:55 INFO api-gateway GET /orders/8754 200 320ms
+2026-11-17 10:00:56 ERROR order-service NullPointerException in calculateTotal for cart 8c4caa83-7ee1-4b90-cb97-8be3080e31b0
+2026-11-17 10:00:57 INFO api-gateway GET /orders/8547 200 162ms
+2026-11-17 10:00:58 ERROR payment-service Timeout calling gateway after 3000 ms for order 7098
+2026-11-17 10:00:59 INFO auth-service User 371 logged in from 160.22.54.25
+2026-11-17 10:01:00 INFO api-gateway GET /orders/8916 200 305ms
+2026-11-17 10:01:01 INFO api-gateway GET /orders/9974 200 118ms
+2026-11-17 10:01:02 INFO api-gateway GET /orders/8166 200 377ms
+2026-11-17 10:01:03 INFO api-gateway GET /orders/5689 200 268ms
+2026-11-17 10:01:04 ERROR order-service NullPointerException in calculateTotal for cart 8cd5d187-a9fd-a2ef-6532-2a48cbbc6c94
+2026-11-17 10:01:05 INFO api-gateway GET /orders/3305 200 233ms
+2026-11-17 10:01:06 INFO api-gateway GET /orders/8640 200 80ms
+2026-11-17 10:01:07 INFO api-gateway GET /orders/9998 200 124ms
+2026-11-17 10:01:08 INFO api-gateway GET /orders/4140 200 218ms
+2026-11-17 10:01:09 INFO auth-service User 731 logged in from 12.68.192.184
+2026-11-17 10:01:10 INFO api-gateway GET /orders/4311 200 30ms
+2026-11-17 10:01:11 ERROR notification-service Failed to send email to user 518
+2026-11-17 10:01:12 INFO api-gateway GET /orders/6635 200 212ms
+2026-11-17 10:01:13 INFO api-gateway GET /orders/3741 200 349ms
+2026-11-17 10:01:14 INFO auth-service User 122 logged in from 50.128.227.173
+2026-11-17 10:01:15 INFO auth-service User 806 logged in from 82.237.71.77
+2026-11-17 10:01:16 INFO api-gateway GET /orders/6983 200 138ms
+2026-11-17 10:01:17 INFO api-gateway GET /orders/4910 200 174ms
+2026-11-17 10:01:18 INFO api-gateway GET /orders/7437 200 219ms
+2026-11-17 10:01:19 INFO api-gateway GET /orders/1647 200 20ms
+2026-11-17 10:01:20 INFO auth-service User 692 logged in from 49.84.17.102
+2026-11-17 10:01:21 INFO api-gateway GET /orders/7456 200 32ms
+2026-11-17 10:01:22 ERROR payment-service Timeout calling gateway after 3000 ms for order 4565
+2026-11-17 10:01:23 INFO auth-service User 224 logged in from 200.216.76.76
+2026-11-17 10:01:24 INFO api-gateway GET /orders/4110 200 211ms
+2026-11-17 10:01:25 INFO api-gateway GET /orders/9558 200 369ms
+2026-11-17 10:01:26 INFO api-gateway GET /orders/6428 200 20ms
+2026-11-17 10:01:27 INFO api-gateway GET /orders/6112 200 31ms
+2026-11-17 10:01:28 INFO api-gateway GET /orders/3606 200 21ms
+2026-11-17 10:01:29 ERROR payment-service Timeout calling gateway after 3000 ms for order 1626
+2026-11-17 10:01:30 INFO api-gateway GET /orders/3648 200 58ms
+2026-11-17 10:01:31 INFO auth-service User 780 logged in from 186.97.215.96
+2026-11-17 10:01:32 INFO api-gateway GET /orders/5947 200 392ms
+2026-11-17 10:01:33 INFO api-gateway GET /orders/9586 200 154ms
+2026-11-17 10:01:34 INFO api-gateway GET /orders/3084 200 36ms
+2026-11-17 10:01:35 INFO api-gateway GET /orders/5274 200 134ms
+2026-11-17 10:01:36 ERROR payment-service Timeout calling gateway after 3000 ms for order 4341
+2026-11-17 10:01:37 INFO auth-service User 616 logged in from 18.53.127.249
+2026-11-17 10:01:38 ERROR payment-service Timeout calling gateway after 3000 ms for order 6361
+2026-11-17 10:01:39 ERROR payment-service Timeout calling gateway after 3000 ms for order 2230
+2026-11-17 10:01:40 INFO api-gateway GET /orders/4538 200 67ms
+2026-11-17 10:01:41 INFO api-gateway GET /orders/2320 200 45ms
+2026-11-17 10:01:42 INFO api-gateway GET /orders/1479 200 230ms
+2026-11-17 10:01:43 INFO api-gateway GET /orders/3529 200 97ms
+2026-11-17 10:01:44 INFO api-gateway GET /orders/6106 200 63ms
+2026-11-17 10:01:45 ERROR order-service NullPointerException in calculateTotal for cart 9107756f-bece-7145-4ff6-f2c50d25f954
+2026-11-17 10:01:46 INFO auth-service User 527 logged in from 234.171.15.243
+2026-11-17 10:01:47 INFO api-gateway GET /orders/2198 200 220ms
+2026-11-17 10:01:48 WARN api-gateway Slow response 1286ms for /orders
+2026-11-17 10:01:49 INFO auth-service User 357 logged in from 63.130.135.60
+2026-11-17 10:01:50 ERROR order-service NullPointerException in calculateTotal for cart 34128822-13f3-8870-4fec-0f409efac292
+2026-11-17 10:01:51 INFO auth-service User 124 logged in from 212.60.28.122
+2026-11-17 10:01:52 INFO auth-service User 502 logged in from 116.230.183.227
+2026-11-17 10:01:53 INFO api-gateway GET /orders/6900 200 84ms
+2026-11-17 10:01:54 INFO api-gateway GET /orders/4970 200 263ms
+2026-11-17 10:01:55 INFO auth-service User 269 logged in from 85.49.48.168
+2026-11-17 10:01:56 INFO api-gateway GET /orders/5440 200 147ms
+2026-11-17 10:01:57 INFO api-gateway GET /orders/4604 200 251ms
+2026-11-17 10:01:58 INFO api-gateway GET /orders/9144 200 301ms
+2026-11-17 10:01:59 INFO auth-service User 855 logged in from 67.51.113.64
+2026-11-17 10:02:00 INFO auth-service User 484 logged in from 9.119.17.206
+2026-11-17 10:02:01 WARN api-gateway Slow response 841ms for /orders
+2026-11-17 10:02:02 INFO auth-service User 531 logged in from 128.182.249.115
+2026-11-17 10:02:03 INFO auth-service User 264 logged in from 110.227.27.19
+2026-11-17 10:02:04 INFO auth-service User 724 logged in from 48.230.58.125
+2026-11-17 10:02:05 INFO api-gateway GET /orders/9335 200 163ms
+2026-11-17 10:02:06 INFO api-gateway GET /orders/5744 200 254ms
+2026-11-17 10:02:07 ERROR payment-service Timeout calling gateway after 3000 ms for order 4181
+2026-11-17 10:02:08 INFO auth-service User 263 logged in from 64.105.17.167
+2026-11-17 10:02:09 INFO auth-service User 277 logged in from 60.35.107.118
+2026-11-17 10:02:10 INFO auth-service User 637 logged in from 192.120.9.80
+2026-11-17 10:02:11 ERROR notification-service Failed to send email to user 289
+2026-11-17 10:02:12 ERROR payment-service Timeout calling gateway after 3000 ms for order 4333
+2026-11-17 10:02:13 INFO api-gateway GET /orders/7461 200 81ms
+2026-11-17 10:02:14 INFO api-gateway GET /orders/6036 200 48ms
+2026-11-17 10:02:15 ERROR payment-service Timeout calling gateway after 3000 ms for order 1825
+2026-11-17 10:02:16 INFO api-gateway GET /orders/4566 200 365ms
+2026-11-17 10:02:17 INFO api-gateway GET /orders/9996 200 122ms
+2026-11-17 10:02:18 INFO api-gateway GET /orders/8008 200 34ms
+2026-11-17 10:02:19 INFO api-gateway GET /orders/9806 200 174ms
+2026-11-17 10:02:20 INFO auth-service User 336 logged in from 120.57.68.195
+2026-11-17 10:02:21 INFO api-gateway GET /orders/6183 200 350ms
+2026-11-17 10:02:22 ERROR payment-service Timeout calling gateway after 3000 ms for order 1613
+2026-11-17 10:02:23 INFO auth-service User 720 logged in from 87.93.70.86
+2026-11-17 10:02:24 ERROR order-service NullPointerException in calculateTotal for cart 48866d48-fcfd-36d1-68e7-ed23456b312c
+2026-11-17 10:02:25 INFO auth-service User 386 logged in from 146.69.96.66
+2026-11-17 10:02:26 INFO auth-service User 931 logged in from 161.197.104.11
+2026-11-17 10:02:27 INFO api-gateway GET /orders/2152 200 173ms
+2026-11-17 10:02:28 INFO api-gateway GET /orders/5427 200 193ms
+2026-11-17 10:02:29 INFO auth-service User 439 logged in from 114.44.28.1
+2026-11-17 10:02:30 INFO api-gateway GET /orders/9622 200 140ms
+2026-11-17 10:02:31 WARN api-gateway Slow response 904ms for /orders
+2026-11-17 10:02:32 INFO api-gateway GET /orders/7525 200 81ms
+2026-11-17 10:02:33 INFO api-gateway GET /orders/9247 200 290ms
+2026-11-17 10:02:34 INFO api-gateway GET /orders/2252 200 279ms
+2026-11-17 10:02:35 INFO auth-service User 489 logged in from 92.197.211.80
+2026-11-17 10:02:36 INFO auth-service User 134 logged in from 124.142.140.84
+2026-11-17 10:02:37 INFO api-gateway GET /orders/7731 200 250ms
+2026-11-17 10:02:38 INFO api-gateway GET /orders/4405 200 276ms
+2026-11-17 10:02:39 INFO api-gateway GET /orders/1790 200 163ms
+2026-11-17 10:02:40 INFO api-gateway GET /orders/4207 200 385ms
+2026-11-17 10:02:41 INFO api-gateway GET /orders/9025 200 20ms
+2026-11-17 10:02:42 ERROR payment-service Timeout calling gateway after 3000 ms for order 4105
+2026-11-17 10:02:43 ERROR order-service NullPointerException in calculateTotal for cart f4042f1e-6af7-ea31-4ebe-9880aaf5a86e
+2026-11-17 10:02:44 INFO auth-service User 709 logged in from 38.237.101.14
+2026-11-17 10:02:45 INFO api-gateway GET /orders/1615 200 350ms
+2026-11-17 10:02:46 INFO api-gateway GET /orders/8363 200 157ms
+2026-11-17 10:02:47 INFO api-gateway GET /orders/6630 200 164ms
+2026-11-17 10:02:48 INFO auth-service User 941 logged in from 206.111.23.13
+2026-11-17 10:02:49 INFO api-gateway GET /orders/7554 200 303ms
+2026-11-17 10:02:50 INFO auth-service User 762 logged in from 108.21.66.59
+2026-11-17 10:02:51 ERROR payment-service Timeout calling gateway after 3000 ms for order 2953
+2026-11-17 10:02:52 INFO auth-service User 832 logged in from 245.120.245.199
+2026-11-17 10:02:53 ERROR order-service NullPointerException in calculateTotal for cart 19f48c75-687d-d512-1032-888d7bc71df3
+2026-11-17 10:02:54 INFO auth-service User 765 logged in from 207.26.168.119
+2026-11-17 10:02:55 INFO api-gateway GET /orders/5878 200 150ms
+2026-11-17 10:02:56 INFO auth-service User 571 logged in from 93.201.201.153
+2026-11-17 10:02:57 ERROR notification-service Failed to send email to user 480
+2026-11-17 10:02:58 INFO auth-service User 290 logged in from 63.61.40.73
+2026-11-17 10:02:59 INFO auth-service User 495 logged in from 203.65.234.111
+2026-11-17 10:03:00 ERROR payment-service Timeout calling gateway after 3000 ms for order 3316
+2026-11-17 10:03:01 INFO api-gateway GET /orders/8492 200 63ms
+2026-11-17 10:03:02 INFO auth-service User 721 logged in from 61.84.221.82
+2026-11-17 10:03:03 INFO auth-service User 924 logged in from 163.243.242.17
+2026-11-17 10:03:04 ERROR payment-service Timeout calling gateway after 3000 ms for order 1186
+2026-11-17 10:03:05 INFO api-gateway GET /orders/5546 200 314ms
+2026-11-17 10:03:06 INFO auth-service User 604 logged in from 9.179.87.184
+2026-11-17 10:03:07 INFO api-gateway GET /orders/7338 200 127ms
+2026-11-17 10:03:08 INFO api-gateway GET /orders/1192 200 398ms
+2026-11-17 10:03:09 INFO api-gateway GET /orders/4440 200 212ms
+2026-11-17 10:03:10 INFO api-gateway GET /orders/3270 200 349ms
+2026-11-17 10:03:11 INFO auth-service User 106 logged in from 205.75.190.217
+2026-11-17 10:03:12 INFO api-gateway GET /orders/2784 200 389ms
+2026-11-17 10:03:13 INFO api-gateway GET /orders/6178 200 81ms
+2026-11-17 10:03:14 INFO api-gateway GET /orders/2846 200 380ms
+2026-11-17 10:03:15 ERROR payment-service Timeout calling gateway after 3000 ms for order 2733
+2026-11-17 10:03:16 INFO auth-service User 318 logged in from 7.250.153.37
+2026-11-17 10:03:17 ERROR notification-service Failed to send email to user 794
+2026-11-17 10:03:18 INFO api-gateway GET /orders/4917 200 208ms
+2026-11-17 10:03:19 INFO api-gateway GET /orders/7966 200 383ms
+2026-11-17 10:03:20 INFO api-gateway GET /orders/8013 200 160ms
+2026-11-17 10:03:21 INFO api-gateway GET /orders/9371 200 181ms
+2026-11-17 10:03:22 INFO auth-service User 402 logged in from 28.244.160.127
+2026-11-17 10:03:23 WARN api-gateway Slow response 1100ms for /orders
+2026-11-17 10:03:24 INFO api-gateway GET /orders/8355 200 147ms
+2026-11-17 10:03:25 INFO auth-service User 934 logged in from 127.34.238.128
+2026-11-17 10:03:26 INFO auth-service User 557 logged in from 50.83.94.189
+2026-11-17 10:03:27 INFO api-gateway GET /orders/9055 200 368ms
+2026-11-17 10:03:28 INFO api-gateway GET /orders/3058 200 139ms
+2026-11-17 10:03:29 ERROR payment-service Timeout calling gateway after 3000 ms for order 6570
+2026-11-17 10:03:30 INFO auth-service User 180 logged in from 132.51.101.193
+2026-11-17 10:03:31 INFO api-gateway GET /orders/2251 200 204ms
+2026-11-17 10:03:32 INFO auth-service User 180 logged in from 72.21.90.108
+2026-11-17 10:03:33 INFO api-gateway GET /orders/2479 200 92ms
+2026-11-17 10:03:34 INFO api-gateway GET /orders/8613 200 258ms
+2026-11-17 10:03:35 INFO api-gateway GET /orders/5748 200 149ms
+2026-11-17 10:03:36 INFO api-gateway GET /orders/3439 200 147ms
+2026-11-17 10:03:37 ERROR payment-service Timeout calling gateway after 3000 ms for order 3912
+2026-11-17 10:03:38 INFO api-gateway GET /orders/9962 200 146ms
+2026-11-17 10:03:39 INFO api-gateway GET /orders/9648 200 259ms
+2026-11-17 10:03:40 INFO auth-service User 585 logged in from 8.162.106.64
+2026-11-17 10:03:41 ERROR order-service NullPointerException in calculateTotal for cart 327bcda3-a4fc-8621-5d20-c6a6cd5e4aa0
+2026-11-17 10:03:42 INFO api-gateway GET /orders/8385 200 227ms
+2026-11-17 10:03:43 ERROR payment-service Timeout calling gateway after 3000 ms for order 5176
+2026-11-17 10:03:44 INFO api-gateway GET /orders/6317 200 193ms
+2026-11-17 10:03:45 INFO api-gateway GET /orders/9592 200 318ms
+2026-11-17 10:03:46 INFO api-gateway GET /orders/5679 200 345ms
+2026-11-17 10:03:47 INFO api-gateway GET /orders/1018 200 25ms
+2026-11-17 10:03:48 INFO api-gateway GET /orders/9021 200 168ms
+2026-11-17 10:03:49 INFO api-gateway GET /orders/1802 200 301ms
+2026-11-17 10:03:50 INFO api-gateway GET /orders/5977 200 85ms
+2026-11-17 10:03:51 WARN api-gateway Slow response 1182ms for /orders
