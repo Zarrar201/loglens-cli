@@ -1,4 +1,4 @@
-# LogLens CLI
+# LogLens
 
 **LogLens compares two log files, one from before a change and one from after it, and reports which errors are new and which errors have suddenly become more frequent.**
 
